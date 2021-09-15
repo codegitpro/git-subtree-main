@@ -1,7 +1,7 @@
 {
   "scripts": {
     "run:subtree": "git subtree add --prefix docs https://github.com/codegitpro/git-subtree-docs master --squash",
-    "pull:subtree": "git subtree pull --prefix docs https://github.com/codegitpro/git-subtree-docs master --squash",
-    "push:subtree": "git subtree push --prefix docs https://github.com/codegitpro/git-subtree-docs master"
+    "pull:subtree": "git subtree pull --prefix docs https://codegitpro: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@github.com/codegitpro/git-subtree-docs master --squash",
+    "push:subtree": "git subtree push --prefix docs https://codegitpro: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@github.com/codegitpro/git-subtree-docs master"
   }
 }
