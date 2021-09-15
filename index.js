@@ -1,3 +1,3 @@
-const docs_data = require("./docs/docs-data")
+const main_data = require("./main/main-data")
 
-console.log("docs_data", docs_data)
+console.log("main_data", main_data)
